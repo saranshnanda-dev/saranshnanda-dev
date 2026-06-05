@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Saransh 👋
 
-<!--
-**saranshnanda-dev/saranshnanda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 17-year-old BCA student specializing in **Artificial Intelligence & Machine Learning** (Class of 2029). I am using this profile to document my 3-year journey from absolute coding basics to deploying production-ready AI models.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- 🐍 Mastering Advanced Python & OOPs concepts.
+- 📐 Building core mathematical foundations for Neural Networks (Linear Algebra & Stats).
+- 💾 Solving Data Structures & Algorithms (DSA) problems daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
+
+## 📈 My Developer Journey
+- 🟢 **Year 1:** Core Programming, Data Structures, and SQL Fundamentals. (Current)
+- 🟡 **Year 2:** Data Analytics, Predictive Machine Learning, and Math.
+- 🔴 **Year 3:** Deep Learning, Large Language Models (LLMs), and Deployment (MLOps).
+
+---
+
+### 📊 Let's Connect!
+- 📧 Email: [nanda.saransh98@gmail.com]
+- 
